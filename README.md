@@ -105,6 +105,7 @@ Google has not published a Search Console connector in the ChatGPT or Claude dir
 
 - [Google Search Console on Cotlet.dev](https://cotlet.dev/integrations/google-search-console-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=google-search-console&utm_content=find)
 - [PyPI package google-search-console-cotlet-mcp](https://pypi.org/project/google-search-console-cotlet-mcp/)
+- [Odel](https://odel.app/modules/cotlet/google-search-console)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-google-search-console-to-ai-agents-guide)
 
 ## Also works with
